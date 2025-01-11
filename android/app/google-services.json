@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639628344252",
+    "project_id": "chatwavy",
+    "storage_bucket": "chatwavy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639628344252:android:087a33012379a9461089b9",
+        "android_client_info": {
+          "package_name": "com.example.chatappp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVCiGv6Eu29rNzMuLZSKc1YNE7VwHifw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

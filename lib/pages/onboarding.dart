@@ -61,8 +61,7 @@ class _OnboardingState extends State<Onboarding> {
                       width: 30,
                       fit: BoxFit.cover,
                     ),
-                    SizedBox(
-                        width: 20), // Add spacing between the image and text
+                    SizedBox(width: 20),
                     Text(
                       "Sign in with Google",
                       textAlign: TextAlign.center,
